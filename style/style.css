@@ -173,3 +173,46 @@
   padding: 20px 30px;
   box-shadow: inset;
 }
+
+/* another skill style */
+.another-skill-title{
+  font-size: 32px;
+  font-weight: bolder;
+  color: #0D1321;
+}
+.another-skill-description{
+  font-size: 16px;
+  font-weight: 400px;
+  color: #0D1321;
+  opacity: 70%;
+}
+.another-skill-title-p{
+  font-size: 24px;
+  font-weight: 900px;
+  color: #0D1321;
+}
+/* another-skill-section */
+.another-skill-1{
+  display: flex;
+  border: 3px solid wheat;
+  padding: 30px 15px 30px 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  
+}
+.another-skill-2{
+  display: flex;
+  border: 3px solid wheat;
+  padding:30px 15px 30px 15px ;
+  border-radius:10px ;
+  margin-bottom: 20px;
+  
+}
+
+.another-skill-3{
+  display: flex;
+  border: 3px solid wheat;
+  padding: 30px 15px 30px 15px;
+  border-radius: 10px;
+}
