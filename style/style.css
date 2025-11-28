@@ -3,6 +3,23 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+/* shared style */
+.text-align{
+  text-align: center;
+}
+.hedding-size{
+    font-size: 32px;
+    font-weight: 800;
+  }
+  main{
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+   
+
+
+
+
 
 
 
@@ -40,5 +57,51 @@
   font-size: 20px;
   font-weight: 700px;
   text-align: center;
+  border: none;
+}
+/* section style-1 */
+.web-development-description{
+  font-size: 16px;
+  font-weight: 400px;
+  color: #0D1321;
+}
+
+
+/* coding section */
+.web-development{
+  margin-bottom: 80px;
+}
+
+.work-1{
+  display: flex;
+  justify-content: space-between;
+}
+.work-2{
+  display: flex;
+  justify-content: space-between;
+}
+.work-3{
+  display: flex;
+  justify-content: space-between;
+}
+.section-title-section-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #0a0e17;
+  opacity: 100%;
+}
+.section-description-section-description{
+  font-size: 16px;
+  font-weight: 500px;
+  color: #0D1321;
+  opacity: 70%;
+}
+
+/* button style */
+.btn-primary{
+  background-color: rgb(231, 10, 227);
+  padding: 10px 20px;
+  color: white;
+  border-radius: 10px;
   border: none;
 }
